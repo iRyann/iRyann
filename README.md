@@ -1,16 +1,12 @@
-## Hi there 👋
+##  À propos
+Je suis **élève-ingénieur en cybersécurité** à **CY Tech**.  
+Mon travail s’articule entre **l’ingénierie logicielle bas-niveau**, la **sécurité offensive**, et la **recherche appliquée**.  
+J’accorde une importance significative aux **projets collaboratifs**, à la **réflexion partagée** et à **l’entrepreneuriat**.
 
-<!--
-**iRyann/iRyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Environnement et outillage
+- **OS** : Arch Linux / Hyprland  
+- **Workflow** : Neovim + tmux + pwndbg/gef + zsh  
+- **Langages** : C, Python, NASM, Lua  
+- **Style** : CLI/TUI-first, esthétique Catppuccin ☕  
+- **Philosophie** : Ambition, cadrage et engagement
