@@ -1,8 +1,8 @@
 ## <img src="assets/icons/astronaut.svg" width="22" style="vertical-align:middle;"/> À propos
 
-Je suis **élève-ingénieur en cybersécurité** à **CY Tech**.  
-Mon travail s’articule entre **l’ingénierie logicielle bas-niveau**, la **sécurité offensive**, et la **recherche appliquée**.  
-J’accorde une importance significative aux **projets collaboratifs**, à la **réflexion partagée** et à **l’entrepreneuriat**.
+Je suis élève-ingénieur en cybersécurité à CY Tech.  
+Mon travail s'articule entre l'ingénierie logicielle bas-niveau, la sécurité offensive, et la recherche appliquée.  
+J'accorde une importance significative aux projets collaboratifs, à la réflexion partagée et à l'entrepreneuriat.
 
 ## <img src="assets/icons/terminal.svg" width="22" style="vertical-align:middle;"/> Environnement et outillage
 
