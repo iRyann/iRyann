@@ -12,10 +12,11 @@ J'accorde une importance significative aux projets collaboratifs, à la réflexi
 - **Style** : CLI/TUI-first, esthétique Catppuccin ☕
 - **Philosophie** : Ambition, cadrage et engagement
 
-## <img src="assets/icons/box.svg" width="22" style="vertical-align:middle;"/> Projets en cours
+## <img src="assets/icons/box.svg" width="22" style="vertical-align:middle;"/> Projets récents
 
 ### <img src="assets/icons/flask.svg" width="22" style="vertical-align:middle;"/> Proof Of Concept
 
+- Semantic-Invariant Hashing for Executable Binaries via Deep Learning Models.
 - Black-Box Adversarial Attacks on Voice Authentication Systems : Revue de l'état de l'art et application
 
 ### <img src="assets/icons/lab.svg" width="22" style="vertical-align:middle;"/> Recherche & Enseignement
